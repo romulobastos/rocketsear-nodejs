@@ -1,5 +1,5 @@
 # Node JS - Starter
-Node JS - Coding an API Rest (Rocketseat Course)
+Node JS - Coding an API (Rocketseat Course)
 
 <!-- ### Required modules
 
